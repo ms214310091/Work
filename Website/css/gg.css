@@ -1,0 +1,146 @@
+body {
+    width: 100%;
+    max-width: 100%
+}
+
+header {
+    width: 100%;
+    float: left;
+    background: #363405;
+    max-width: 100%;
+}
+
+.leftside {
+    float: left;
+    width: 160px;
+    max-width: 100%;
+}
+
+.top-center {
+    float: left;
+    width: calc(100% - 380px);
+    max-width: 100%;
+}
+
+.rightside {
+    float: left;
+    width: 220px;
+    color: #ae9815;
+    position: relative;
+    max-width: 100%;
+}
+
+.lang {
+    color: #ae9815;
+    max-width: 100%;
+}
+
+.reserve {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 60px;
+    height: 100%;
+    background-color: yellow;
+    max-width: 100%;
+}
+
+.reserve span {
+    position: absolute;
+    width: 200%;
+    transform: rotate(-90deg);
+    color: #000;
+    transform-origin: 100% 0%;
+    padding: 0;
+    max-width: 100%;
+}
+
+ul.menu {
+    text-align: center;
+    float: left;
+    width: 100%;
+    color: #ae9815;
+    max-width: 100%;
+}
+
+li {
+    float: left;
+    width: 20%;
+    text-align: center;
+    font-color: #ae9815;
+    font-family: Perrywood MT;
+    font-weight: 600;
+    font-size: 18px;
+    max-width: 100%;
+}
+
+#banner img.top-bar-left {
+    width: 120px;
+    height: 140px;
+    max-width: 100%;
+}
+
+.logo img {
+    width: 15%;
+    text-align: center;
+    max-width: 100%;
+}
+
+.logo {
+    text-align: center;
+    max-width: 100%;
+}
+
+img.main-image {
+    float: left;
+    width: 100%;
+    height: 500px;
+    max-width: 100%;
+}
+
+.content {
+    text-align: justify;
+    width: 100%;
+    padding-bottom: 20px;
+    max-width: 100%;
+}
+
+.content>div {
+    width: 100px;
+    height: 15px;
+    display: inline-block;
+    background: #ae9815;
+    padding-bottom: 20px;
+    margin-right: -60px;
+    margin-left: 120px;
+}
+
+.content1 p {
+	font-size: 14px;
+	font-family: Perrywood MT;
+	text-align: center;
+}
+
+img.tamarind {
+	width:10px;
+	height: 110px;
+	max-width: 100%;
+}
+
+.content2 p {
+	font-size: 14px;
+	font-family: Perrywood MT;
+	text-align: center;
+}
+
+.content3 p {
+	font-size: 14px;
+	font-family: Perrywood MT;
+	text-align: center;
+}
+
+.content4 p {
+	font-size: 14px;
+	font-family: Perrywood MT;
+	text-align: center;
+}
