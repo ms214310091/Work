@@ -6,13 +6,13 @@ body {
 
 .header-left,
 .header-right {
-	float: left;
-	background-color: #363405;
+    float: left;
+    background-color: #363405;
     height: 205px;
 }
 
 .slogan > p{
-	color:#cbae31;
+    color:#cbae31;
 }
 
 .top-left-logo {
@@ -47,11 +47,11 @@ ul.menu {
 }
 
 ul.menu a{
-	color: #ae9815;
+    color: #ae9815;
 }
 
 li {
-	float: left;
+    float: left;
     font-family: Perrywood MT;
     font-size: 18px;
     font-weight: 600;
@@ -61,7 +61,7 @@ li {
 }
 
 .contact > p {
-	color:#cbae31;
+    color:#cbae31;
 }
 
 .logo img {
@@ -77,12 +77,12 @@ li {
 }
 
 .main-image {
-	width: 100%;
+    width: 100%;
 }
 
 
 .topic {
-	width: 25%;
+    width: 25%;
 }
 
 .topic .topic-label {
@@ -94,7 +94,7 @@ li {
 }
 
 .information.container.info {
-	margin: 20px 0;
+    margin: 20px 0;
 }
 
 .topic.col-md-3 > p {
@@ -107,19 +107,22 @@ li {
 }
 
 .info.col-md-3 > p {
-	font-size: 11px;
-	text-align: center;
+    font-size: 11px;
+    text-align: center;
 }
 
 .first {
-	display: block;
+    display: block;
     height: 106px;
     margin: auto;
     width: auto;
 }
 
 .right_side {
-	text-align: right;
+    text-align: right;
 }
 
-
+.testimonial-lines {
+    font-size: 10px;
+    text-align: right;
+}
