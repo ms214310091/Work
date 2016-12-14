@@ -1,0 +1,116 @@
+body {
+    width: 100%;
+    max-width: 100%;
+    background-color: #fff8da;
+}
+
+.header-left,
+.header-right {
+	float: left;
+	background-color: #363405;
+    height: 205px;
+}
+
+.slogan > p{
+	color:#cbae31;
+}
+
+.top-left-logo {
+    display: block;
+    height: 106px;
+    margin: auto;
+    width: auto;
+}
+
+.header-center{
+    float: left;
+    background-color: #363405;
+    height: 205px;
+}
+
+.logo {
+    max-width: 100%;
+    text-align: center;
+    height: 140px;
+}
+
+ul.menu {
+    float: left;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    max-width: 100%;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    list-style: none;
+}
+
+ul.menu a{
+	color: #ae9815;
+}
+
+li {
+	float: left;
+    font-family: Perrywood MT;
+    font-size: 18px;
+    font-weight: 600;
+    max-width: 100%;
+    text-align: center;
+    width: 20%;
+}
+
+.logo img {
+    width:15%;
+    text-align: center;
+    max-width: 100%;
+    background-color: #363405;
+}
+
+.col-xs-12 {
+    background-color: #fff8da;
+    width: 100%;
+}
+
+.main-image {
+	width: 100%;
+}
+
+
+.topic {
+	width: 25%;
+}
+
+.topic .topic-label {
+    width: 100%;
+    background-color: #e6d175;
+    height: 25px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.information.container.info {
+	margin: 20px 0;
+}
+
+.topic.col-md-3 > p {
+    width: 100%;
+}
+
+.container {
+    max-width: 100%;
+    width: 100%;
+}
+
+.info.col-md-3 > p {
+	font-size: 11px;
+	text-align: center;
+}
+
+img.about {
+
+}
+
+
+
+
